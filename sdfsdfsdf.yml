@@ -5,7 +5,7 @@ info:
 
 http:
   method: GET
-  url: akash
+  url: google.com
   auth: inherit
 
 settings:
